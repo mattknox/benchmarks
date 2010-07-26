@@ -1,0 +1,1 @@
+this is intended to be a collection of micro- and macro- benchmarks that are useful for comparing language implementations for web dev.  There will be no pfannkuch and no ray tracers, just the things that seem empirically to matter for webapp performance (at least on the webapps that I work on): string append and method dispatch.
