@@ -1,0 +1,4 @@
+var acc = 0;
+for(var i = 0; i < 1000000; i++) {
+    acc = acc + 1;
+}
